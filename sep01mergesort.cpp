@@ -1,5 +1,8 @@
 // http://practice.geeksforgeeks.org/problems/binary-array-sorting/0
 
+// The same way as merge sort is done. Here the low pointer is 1
+// and high pointer is also 1 initially.
+
 #include <bits/stdc++.h>
 using namespace std;
 
